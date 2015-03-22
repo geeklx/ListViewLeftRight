@@ -1,9 +1,8 @@
 package net.sourceforge.simcpux;
 
 public class Constants {
-	// APP_ID 替换为你的应用从官方网站申请到的合法appId
-	// public static final String APP_ID = "wxd930ea5d5a258f4f";
-	public static final String APP_ID = "wx75e457f327b541f5";
+	// APP_ID 鏇挎崲涓轰綘鐨勫簲鐢ㄤ粠瀹樻柟缃戠珯鐢宠鍒扮殑鍚堟硶appId
+	public static final String APP_ID = "";
 
 	public static class ShowMsgActivity {
 		public static final String STitle = "showmsg_title";
